@@ -1,2 +1,4 @@
 /signnow_smolagents.egg-info/
 /dist/
+/tok
+/.pypirc

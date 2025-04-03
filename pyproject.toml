@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "signnow-smolagents"
-version = "0.1.0"
+version = "0.1.3"
 description = "SmolAgents tools for SignNow API integration"
 readme = "README.md"
 authors = [
@@ -22,4 +22,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mihasichechek/sn-smolagent-tools-demo"
+Homepage = "https://github.com/mihasicehcek/sn_smolagent_tools_demo"
